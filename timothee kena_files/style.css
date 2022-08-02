@@ -1,0 +1,46 @@
+body{
+    max-width: 122px;
+    margin-right: 50px;
+    margin-left: 50px;
+    font-family: monospace;
+}
+header{
+    padding: 20px;
+    background-color: gainsboro ;
+    display: flex;
+    
+
+}
+liens{
+    display: flex;
+    gap: 4px;
+
+}
+lien{
+
+    padding: 19px;
+
+     }
+
+     lien :hover{
+         color:  white;
+         background-color: gray;
+
+}
+h1{
+    font-size: 400px;
+    text-align: center;
+
+}
+.competences{
+    display: flex;
+    gap: 36px;
+
+}
+.competences{
+    padding:24px;
+    background: green;
+    color: white;
+    font-size: center;
+    width: 33,3 %;
+}
